@@ -1804,6 +1804,7 @@ var cnames_active = {
   "prismarine": "prismarinejs.github.io",
   "prismic-nuxt": "nuxt-community.github.io/prismic-module",
   "pristine": "sha256.github.io/Pristine", // noCF
+  "pro": "einlinuus.github.io/pro",
   "producify": "jesobreira.github.io/producify",
   "producthunt-trending": "xiaomingplus.github.io/producthunt-trending",
   "profanity-finder": "gautamkrishnar.github.io/profanity-finder.js",
